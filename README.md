@@ -1,5 +1,5 @@
 # This is an online educational site 
-# Name: 5 minit school 
+# Name: 5 minit school (https://five-minit-education.netlify.app/)
 [Website-live-link:](https://five-minit-education.netlify.app/).
 
 ## Short Description:
