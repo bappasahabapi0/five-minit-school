@@ -1,6 +1,6 @@
 # This is an online educational site 
-# 5 minit school
-[Website-live:](https://github.com/facebook/create-react-app).
+# Name: 5 minit school 
+[Website-live-link:](https://five-minit-education.netlify.app/).
 
 ## Short Description:
         -- This is a website having educational content.
