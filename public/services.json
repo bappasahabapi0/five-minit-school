@@ -5,7 +5,7 @@
       "name": "language Course",
       "lecture": 45,
       "insturctor": "Dhiman Sharma",
-      "upcomming": 100
+      "upcomming": "next month"
     },
     {
       "key": 2,
@@ -13,7 +13,7 @@
       "name": "Programming Course",
       "lecture": 55,
       "insturctor": "Opurba opu",
-      "upcomming": 200
+      "upcomming": "next month"
     },
     {
       "key": 3,
@@ -21,7 +21,7 @@
       "name": "Graphics Course",
       "lecture": 65,
       "insturctor": "Farhat Sadik",
-      "upcomming": 300
+      "upcomming": "next month"
     },
     {
       "key": 4,
@@ -29,7 +29,7 @@
       "name": "Academic Course",
       "lecture": 75,
       "insturctor": "Sharlok Baron",
-      "upcomming": 400
+      "upcomming": "next month"
     },
     {
       "key": 5,
@@ -37,7 +37,7 @@
       "name": "Algorithm Course",
       "lecture": 85,
       "insturctor": "Rana Joti Chakma",
-      "upcomming": 500
+      "upcomming": "next month"
     },
     {
       "key": 6,
@@ -45,7 +45,7 @@
       "name": "Drawing Course",
       "lecture": 95,
       "insturctor": "Mishal jackson ",
-      "upcomming": 600
+      "upcomming": "next month"
     },
     {
       "key": 7,
@@ -53,7 +53,7 @@
       "name": "computer Hardware",
       "lecture": 105,
       "insturctor": "Tom Barner",
-      "upcomming": 700
+      "upcomming": "next month"
     },
     {
       "key": 8,
@@ -61,6 +61,6 @@
       "name": "Microsoft word",
       "lecture": 100,
       "insturctor": "Hazary Nag",
-      "upcomming": 800
+      "upcomming": "next month"
     }
   ]

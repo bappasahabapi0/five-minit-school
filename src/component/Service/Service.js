@@ -12,7 +12,7 @@ const Service = (props) => {
             <p>Name:<b> {name}</b></p>
             <p>Instructor:<b> {insturctor}</b></p>
             <p>Lecture: <b> {lecture}</b></p>
-            <p>upcomming<b>{upcomming}</b></p>
+            <p>upcomming:<b> {upcomming}</b></p>
             </div>
         </div>
     );
